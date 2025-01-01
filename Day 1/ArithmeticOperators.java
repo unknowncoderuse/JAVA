@@ -1,3 +1,4 @@
+package javarevision_nov9th_2024;
 
 import java.util.*;
 
@@ -40,7 +41,7 @@ public class ArithmeticOperators
         int i = 123;
         float m1 = a1*i;
         
-        System.out.println("5. float + double =  value.");
+        System.out.println("5. float + double = double value.");
         float f1=12.5f;
         double d1 = 123.5;
         double d2 = f1/d1; // results in double value since double is a larger datatype.
